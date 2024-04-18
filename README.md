@@ -38,7 +38,7 @@ N/A
 
 ## Usage
 
-Click on the "Add Employess" blue button for a prompt to appear on the page. There it will ask for a "First Name", then "Last Name", then the salary of the person. If a user does not enter anything in the lines corresponding to the name then the application will insert a placeholder named, "Unknown" for the name field. In addition, the application will take a mistakenly inputted value in the salary that is not a number and display it as "$0" automatically. 
+Click on the "Add Employees" blue button for a prompt to appear on the page. There it will ask for a "First Name", then "Last Name", then the salary of the person. If a user does not enter anything in the lines corresponding to the name then the application will insert a placeholder named, "Unknown" for the name field. In addition, the application will take a mistakenly inputted value in the salary that is not a number and display it as "$0" automatically. 
 
 Once all necessary values are inputted click "Cancel" on the "Add Another Employee" prompt. A table will populate containing the names and salaries entered under the "Employee Roster" table.
 
