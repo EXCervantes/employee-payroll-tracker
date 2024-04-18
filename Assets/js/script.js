@@ -38,7 +38,6 @@ const collectEmployees = () => {
 }
 
 // Display the average salary
-/*
 const displayAverageSalary = (employeesArray) => {
   const reducerCallback = (accumulator, currentValue) => {
     return accumulator + currentValue.salary;
@@ -50,17 +49,7 @@ const displayAverageSalary = (employeesArray) => {
     style: "currency",
     currency: "USD"
   })} `);
-} 
-*/
-
-const displayAverageSalary = (employeesArray) => {
-  let initialValue = 0;
-
-  for (let i = 0; i < employees.salary; i++) {
-    initialValue += employees.salary[i];
-  }
-  const average = initialValue / employees.salary;
-};
+}
 
 // Select a random employee
 const getRandomEmployee = (employeesArray) => {
