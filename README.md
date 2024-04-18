@@ -45,7 +45,7 @@ Once all necessary values are inputted click "Cancel" on the "Add Another Employ
 If a user opens the console in the page additional information can be found logged there. For example an array of the inputted values will be indexed and shown in a table. The console will also log the average salaries between all values entered under "Salary". Lastly, a random winner will be chosen among the names entered on the page.
 
 ### Example of Webpage
-![Website Screenshot](assets/images/payrolltrackerscreen.jpg)
+![Website Screenshot](Assets/images/payrolltrackerscreen.jpg)
 
 ## Credits
 
